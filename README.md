@@ -6,4 +6,5 @@ cnn_crf_seg.py 使用了三层卷积外加CRF层进行预测
 参考:  
 https://github.com/multiangle/tfword2vec/blob/master/main.py  
 http://wossoneri.github.io/2017/12/16/[Tensorflow]conv-in-tf/  
-https://kexue.fm/archives/4195
+https://kexue.fm/archives/4195  
+https://www.cnblogs.com/lovychen/p/8490397.html
